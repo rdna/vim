@@ -10,3 +10,6 @@
 [submodule "bundle/tagbar"]
 	path = bundle/tagbar
 	url = https://github.com/majutsushi/tagbar.git
+[submodule "bundle/vim-protobuf-syntax"]
+	path = bundle/vim-protobuf-syntax
+	url = https://github.com/jdevera/vim-protobuf-syntax.git
