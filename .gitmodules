@@ -13,3 +13,6 @@
 [submodule "bundle/vim-protobuf-syntax"]
 	path = bundle/vim-protobuf-syntax
 	url = https://github.com/jdevera/vim-protobuf-syntax.git
+[submodule "bundle/linediff.vim"]
+	path = bundle/linediff.vim
+	url = https://github.com/AndrewRadev/linediff.vim.git
