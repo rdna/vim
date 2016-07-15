@@ -19,3 +19,9 @@
 [submodule "bundle/thrift.vim"]
 	path = bundle/thrift.vim
 	url = https://github.com/solarnz/thrift.vim.git
+[submodule "bundle/cscope.vim"]
+	path = bundle/cscope.vim
+	url = https://github.com/vim-scripts/cscope.vim.git
+[submodule "bundle/diffchar.vim"]
+	path = bundle/diffchar.vim
+	url = https://github.com/vim-scripts/diffchar.vim.git
