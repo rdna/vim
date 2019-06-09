@@ -25,6 +25,3 @@
 [submodule "bundle/split-manpage.vim"]
 	path = bundle/split-manpage.vim
 	url = https://github.com/ludwig/split-manpage.vim.git
-[submodule "bundle/vim-rtags"]
-	path = bundle/vim-rtags
-	url = https://github.com/lyuts/vim-rtags.git
